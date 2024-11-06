@@ -1,0 +1,130 @@
+[
+  {
+    "ID": "1",
+    "name": "Blog Ideas & Outlines",
+    "description": "Brainstorm new ideas and generate creative outlines for your blog posts.",
+    "creator": "Agatha Williams",
+    "creatorType": "Admin",
+    "status": "Active"
+  },
+  {
+    "ID": "2",
+    "name": "Blog Post Writing",
+    "description": "Write engaging blog posts that captivate your audience.",
+    "creator": "Agatha Williams",
+    "creatorType": "Admin",
+    "status": "Active"
+  },
+  {
+    "ID": "3",
+    "name": "Social Media Calendar",
+    "description": "Plan your social media content and keep your audience engaged.",
+    "creator": "Mark Johnson",
+    "creatorType": "User",
+    "status": "Draft"
+  },
+  {
+    "ID": "4",
+    "name": "Email Marketing Campaign",
+    "description": "Create an effective email marketing campaign to increase your reach.",
+    "creator": "Sarah Lee",
+    "creatorType": "Admin",
+    "status": "Active"
+  },
+  {
+    "ID": "5",
+    "name": "SEO Optimization Checklist",
+    "description": "Ensure your website is fully optimized for search engines.",
+    "creator": "John Doe",
+    "creatorType": "User",
+    "status": "Inactive"
+  },
+  {
+    "ID": "6",
+    "name": "Landing Page Design",
+    "description": "Design an optimized landing page for better conversion.",
+    "creator": "Rachel Adams",
+    "creatorType": "Admin",
+    "status": "Active"
+  },
+  {
+    "ID": "7",
+    "name": "Content Audit",
+    "description": "Review and improve your existing content to align with your strategy.",
+    "creator": "Sophia Clark",
+    "creatorType": "User",
+    "status": "Active"
+  },
+  {
+    "ID": "8",
+    "name": "Video Script Writing",
+    "description": "Write compelling scripts for your video content.",
+    "creator": "David Brown",
+    "creatorType": "User",
+    "status": "Draft"
+  },
+  {
+    "ID": "9",
+    "name": "Infographic Creation",
+    "description": "Design infographics that visually communicate your message.",
+    "creator": "Emily Evans",
+    "creatorType": "User",
+    "status": "Active"
+  },
+  {
+    "ID": "10",
+    "name": "PPC Ad Campaign",
+    "description": "Develop an effective pay-per-click ad campaign to drive traffic.",
+    "creator": "Chris Taylor",
+    "creatorType": "Admin",
+    "status": "Inactive"
+  },
+  {
+    "ID": "11",
+    "name": "Product Launch Strategy",
+    "description": "Create a strategy for your upcoming product launch.",
+    "creator": "Sarah Lee",
+    "creatorType": "Admin",
+    "status": "Draft"
+  },
+  {
+    "ID": "12",
+    "name": "Keyword Research",
+    "description": "Research and analyze keywords to boost your SEO.",
+    "creator": "John Doe",
+    "creatorType": "User",
+    "status": "Active"
+  },
+  {
+    "ID": "13",
+    "name": "Podcast Planning",
+    "description": "Plan and organize episodes for your podcast series.",
+    "creator": "Rachel Adams",
+    "creatorType": "Admin",
+    "status": "Draft"
+  },
+  {
+    "ID": "14",
+    "name": "Webinar Organization",
+    "description": "Organize a successful webinar to engage your audience.",
+    "creator": "David Brown",
+    "creatorType": "User",
+    "status": "Active"
+  },
+  {
+    "ID": "15",
+    "name": "Brand Style Guide",
+    "description": "Create a style guide to maintain brand consistency.",
+    "creator": "Sophia Clark",
+    "creatorType": "Admin",
+    "status": "Active"
+  },
+  {
+    "ID": "16",
+    "name": "Customer Survey Design",
+    "description": "Design an insightful survey to gather customer feedback.",
+    "creator": "Mark Johnson",
+    "creatorType": "User",
+    "status": "Inactive"
+  }
+]
